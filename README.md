@@ -12,7 +12,11 @@ Department of Electronics and Communication Engineering
 Dr B R Ambedkar National Institute of Technology Jalandhar  
 Email Id - arun.khosla@gmail.com*
   
-    
+   
+     
+       
+         
+         
     
     
     
@@ -24,7 +28,7 @@ Email Id - arun.khosla@gmail.com*
 Emerging Technologies Lab  
 Department of Electronics and Communication Engineering  
 Dr B R Ambedkar National Institute of Technology Jalandhar  
-Email Id - kulbhushan.chand@gmail.com*
+Website - https://kulbhushan-chand.com/about/*
 
 In case of queries or pull requests contact -  Kulbhushan Chand
 
